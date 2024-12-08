@@ -25,9 +25,9 @@ Enhance retail sustainability and customer engagement through AI-driven analytic
 
 ## Authors
 
-- Roshni Kumari
-- Antima Mishra
-- Pranjali Bhradawaj
+- Rohit Sharma
+- Kumar Utkarsh
+- Ritika Budhiraja
 
 ![Myntra1](https://github.com/user-attachments/assets/5f77528e-c7a9-4cd9-be71-aaf6a0b223be)
 
